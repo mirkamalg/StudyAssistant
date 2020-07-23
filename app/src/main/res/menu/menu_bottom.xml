@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/home_nav_button" android:icon="@drawable/ic_baseline_home" android:title="@string/home"/>
+    <item android:id="@+id/exams_nav_button" android:icon="@drawable/ic_baseline_school" android:title="@string/exams"/>
+    <item android:id="@+id/assignments_nav_button" android:icon="@drawable/ic_baseline_menu_book" android:title="@string/assignments"/>
+    <item android:id="@+id/timer_nav_button" android:icon="@drawable/ic_baseline_timer" android:title="@string/timer"/>
+
+</menu>

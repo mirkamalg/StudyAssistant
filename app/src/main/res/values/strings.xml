@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">StudyAssistant</string>
+    <string name="home">Home</string>
+    <string name="exams">Exams</string>
+    <string name="assignments">Assignments</string>
+    <string name="timer">Timer</string>
+    <string name="calendar">Calendar</string>
+    <string name="remaining_exams">Remaining exams</string>
+    <string name="remaining_assignments">Remaining assignments</string>
+    <string name="days_to_next_exam">Days to next exam</string>
+    <string name="time_studied_today">Time studied today</string>
+    <string name="hello_user_n_have_a_good_study">Hello, User! \n Have a good study!</string>
+    <string name="start">Start</string>
+    <string name="pause">Pause</string>
+    <string name="stop">Stop</string>
+    <string name="_1_hour">1 Hour</string>
+    <string name="upcoming_exams">Upcoming Exams</string>
+    <string name="unfinished_assignments">Unfinished Assignments</string>
+</resources>
